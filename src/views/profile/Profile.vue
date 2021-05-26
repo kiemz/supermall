@@ -1,0 +1,34 @@
+<template>
+  <h2>我的</h2>
+</template>
+
+<script>
+export default {
+  name: 'Profile',
+  data() { 
+    return {
+
+    }
+  },
+  props: {
+
+  },
+  components:{
+  },
+  created() {
+
+  },
+  mounted() {
+
+  },
+  updated() {
+
+  },
+  methods:{
+
+  },
+ }
+</script>
+
+<style scoped>
+</style>
